@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! Welcome to my coding corner.</h1>
+<h1 align="center">👋 Hi there! Welcome to my coding corner</h1>
 
 <!-- Justified text with space below -->
 <div align="justify" style="margin-bottom: 20px;">
