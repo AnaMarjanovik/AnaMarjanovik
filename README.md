@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hi there! Welcome to my coding corner.</h1>
 
-<div align="justify">
-
+<p align="center">
 I am a student at the Faculty of Computer Science and Engineering in Skopje with a strong passion for both backend and frontend development.  
-I enjoy working with new technologies and have a growing interest in data science and bioinformatics.
-I am highly motivated by problem-solving and enjoy designing and building robust systems, web applications, and services. I am driven by the challenge of turning ideas into efficient, scalable, and well-structured solutions that solve real-world problems. Beyond coding, I am a technology enthusiast at heart, always staying up to date with the latest innovations in the tech world. I enjoy learning about advancements in data-driven fields and thrive on tackling complex challenges while continuously improving my skills.
+I enjoy working with new technologies and have a growing interest in data science and bioinformatics. I am highly motivated by problem-solving and enjoy designing and building robust systems, web applications, and services. I am driven by the challenge of turning ideas into efficient, scalable, and well-structured solutions that solve real-world problems. Beyond coding, I am a technology enthusiast at heart, always staying up to date with the latest innovations in the tech world. I enjoy learning about advancements in data-driven fields and thrive on tackling complex challenges while continuously improving my skills.
+</p>
 
-</div>
 
 <!-- Social links with colored logos -->
 <p align="center">
