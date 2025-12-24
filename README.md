@@ -11,9 +11,6 @@ I enjoy working with new technologies and have a growing interest in data scienc
   <a href="https://www.instagram.com/anamarjanovik/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" style="color:#E1306C;">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ana.marjanovik@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" alt="Email" style="color:#D14836;">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ana-marjanovik-62477a26b/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" style="color:#0A66C2;">
   </a>
