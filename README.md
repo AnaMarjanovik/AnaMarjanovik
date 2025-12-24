@@ -20,7 +20,7 @@ I enjoy working with new technologies and have a growing interest in data scienc
 </p>
 
 <!-- Tools caption -->
-<h2 align="center">🛠 Tools I have used</h2>
+<h2 align="center"> Tools I have used</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C">&nbsp;&nbsp;&nbsp;
